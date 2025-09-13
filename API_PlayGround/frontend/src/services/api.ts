@@ -2,7 +2,7 @@ import axios from 'axios';
 import { Education, Project, WorkExperience, Profile } from '../types';
 
 const api = axios.create({
-  baseURL: 'https://playground1-nu.vercel.app/api',
+  baseURL: 'https://playground-backend-ten.vercel.app/api',
 });
 // const api = axios.create({
 //   baseURL: 'https://playground1-nu.vercel.app/api',
